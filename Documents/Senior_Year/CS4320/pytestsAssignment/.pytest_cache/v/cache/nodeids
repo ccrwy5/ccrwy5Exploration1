@@ -1,0 +1,6 @@
+[
+  "test_login.py::test_login",
+  "test_login.py::test_login_FAIL",
+  "test_login.py::test_math",
+  "test_login.py::test_math_FAIL"
+]

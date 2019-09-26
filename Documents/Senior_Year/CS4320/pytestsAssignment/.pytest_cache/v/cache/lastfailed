@@ -1,0 +1,6 @@
+{
+  "test_2.py": true,
+  "test_2.py::test_2": true,
+  "test_login.py::test_login_FAIL": true,
+  "test_login.py::test_math_FAIL": true
+}
